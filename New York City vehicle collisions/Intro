@@ -1,0 +1,6 @@
+This project will work with the NYC collisions dataset, mainly focus on handle missing or duplicate data in the dataset.
+
+There are two method to handle the missing data:
+
+- Drop the missing values (row / columns);
+- Imputation (Using the mean, sum, median or other reasonable values to replace the missing values)
